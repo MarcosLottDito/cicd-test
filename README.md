@@ -1,5 +1,1 @@
-# cicd-test
-# cicd-test
-# cicd-test
-# cicd-test
-# cicd-test
+# CI/CD Practice for Software Engineering II class
